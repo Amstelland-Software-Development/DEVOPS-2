@@ -22,13 +22,9 @@ git checkout <commit hash>
 
 1.  Zorg ervoor dat je dit README.md bestand geopend hebt in VS Code (met eventueel de leesbare preview ernaast) en voer onderstaande git commando uit in de terminal:
     ```cmd
-        git checkout HASH?
+        git checkout 52bd7c0a
     ```
-2. Gelukt! Je hebt nu een 'oudere' versie van de `README.md` uigechecked. In dit geval bevat de oudere versie een tweede opdracht: Toon de commits van deze repository in je terminal of via de Gitgraph extenstie. Als het goed is zie je dat de `HEAD` niet meer wijst naar de laatste commit maar dat deze nu wijst naar de commit die je net hebt uitgecheckt! 
-3. Voer onderstaande commando uit in de terminal om weer terug te gaan naar de commit die je had uitgecheckt voor je opdracht 1 uitvoerde.
-    ```cmd
-    git checkout -
-    ```
+
 
 ## Eindresultaat
 
