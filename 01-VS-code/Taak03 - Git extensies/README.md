@@ -21,5 +21,4 @@ VS code
 
 
 
-## :link: Bronnen
-* git
+## Bronnen
