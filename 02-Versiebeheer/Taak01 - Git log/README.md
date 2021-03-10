@@ -14,21 +14,27 @@ git log --pretty=oneline
 > Gebruik <kbd>Q</kbd> om af te sluiten en weer nieuwe commandos te kunnen invoeren in je terminal
 
 
-//TODO: insert screenshot deze repo
-
 ### Commit Hash
 
-Zoals je ziet krijg je zo een lijst van alle commits met de messages die daarbij horen. 
+![Git log terminal output](img/git-log-terminal.png)
 
-De reeks letters en getallen voor de commit message is de **commit hash**. Dit is een unieke reeks die bij een specifieke commit hoort.
+Bovenstaande screenshot laat 4 commits zien, een op elke regel. 
+* De gele reeks letters en getallen noem je de **commit hash**. 
+* Elke commit heeft een commit hash. Deze is altijd uniek. Git gebruikt de commit hash om onderscheid te kunnen maken tussen de verschillende commits.
+* In grijze tekst zie je de commit messages van elke commit. 
+* De tekst `(HEAD -> master)` geeft aan dat dat de commit is die op dit moment te zien is in je editor. Daarover later meer.
 
 ### Gitgraph
 
-Door gebruik te maken van de Gitgraph extensie kunnen we ook een overzicht maken van de commits van een repository. Open hiervoor het command-palette en begin te typen: gitgr.. tot de optie Gitgraph: View Git Graph (Git log) bovenaan staat; selecteer deze optie.
+Door gebruik te maken van de **Gitgraph** extensie kunnen we ook een overzicht maken van de commits van een repository. Open hiervoor het command-palette (<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>) en begin te typen: `gitgr`.. tot de optie **Gitgraph: View Git Graph (Git log)** bovenaan staat en selecteer deze optie.
 
-//TODO: add screenshot gitgraph deze repo
+Er opent zich een nieuwe tab in je editor genaamt `Gitgraph`, zie onderstaande screenshot voor een voorbeeld.
 
-> Let op de 4de kolom. Deze geeft de eerst 8 characters weer van de commit hash. 
+![Gitgraph extensie output](img/git-gitgraph.png)
+
+> Let op de 4de kolom. Deze geeft de eerst 8 characters weer van de commit hash. Als je git via de command line iets met een bepaalde commit wilt laten doen dan volstaat het om niet de gehele hash in je commando te gebruiken maar alleen de eerste acht karakters. 
+
+Later gaan we de **Gitgraph** interface gebruiken om gemaakte commits _uit te checken_ voor kijk even naar wat voor informatie je te zien krijgt.
 
 ## Leerdoelen
 
@@ -44,5 +50,4 @@ Door gebruik te maken van de Gitgraph extensie kunnen we ook een overzicht maken
 
 
 
-## :link: Bronnen
-* 
+## Bronnen
