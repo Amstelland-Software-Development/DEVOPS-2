@@ -1,9 +1,8 @@
-# DEVOPS-2 - 02 - Versiebeheer - Taak 04
+# DEVOPS-2 - 02 - Versiebeheer - Taak 07
 
-## Branches
+## Samenwerken
 
 ## Uitleg
-
 
 ## Leerdoelen
 

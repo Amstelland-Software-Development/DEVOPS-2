@@ -1,6 +1,8 @@
 # DEVOPS-2 - 02 - Versiebeheer - Taak 05
 
-## Merge Conflicts
+## Branches
+
+
 
 ## Uitleg
 

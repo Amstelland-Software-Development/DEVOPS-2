@@ -1,8 +1,9 @@
 # DEVOPS-2 - 02 - Versiebeheer - Taak 06
 
-## Samenwerken
+## Merge Conflicts
 
 ## Uitleg
+
 
 ## Leerdoelen
 
