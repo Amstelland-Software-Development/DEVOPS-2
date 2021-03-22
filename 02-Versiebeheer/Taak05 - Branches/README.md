@@ -40,10 +40,6 @@ Zie onderstaande output van Gitgraph waar een nieuwe branch te zien is genaamd `
 ## Opdracht
 
 1. Doe een checkout van de branch **Taak05-feature-branch** en ga naar opdracht 2 van deze taak.
-    > Zoals je ziet is de README.md van deze taak weer veranderd. Je wisselt met het uichecken van de branch dus tussen twee versies: Eén die op de **master** branch bestaat waarbij deze opdracht niet zichtbaar is en één die op de Taak05-feature-branch bestaat.
-2. Verander deze README.md door je naam in te vullen in onderstaande tekst. 
-    > Naam student: 
-3. Stage _alleen_ dit bestand en doe een commit met als commit message "Taak05 voldaan". De commit die je doet zal worden toegevoegd aan de **Taak05-feature-branch**. Bekijk de Gitgraph en check of je commit inderdaad op de juiste branch staat. 
 ## Eindresultaat
 
 Links onder staat in de VS Code interface de naam van de uitgecheckte branch, in dit geval moet het **Taak05-feature-branch** zijn. Er is een nieuwe commit met als commit message "Taak05 voldaan" toegevoegd aan de **Taak05-feature-branch**.
