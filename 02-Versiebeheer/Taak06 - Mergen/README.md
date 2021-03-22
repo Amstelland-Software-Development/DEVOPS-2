@@ -19,6 +19,7 @@ Je kunt bijvoorbeeld de **Taak05-feature-branch** mergen met de **master** branc
 
 Een branch mergen in de Gitgraph interface doe je door met je rechtmuisknop op de te mergen branch te klikken en te kiezen voor `Merge into current branch`.
 
+![](img\git-gitgraph-merge-branch.gif)
 
 
 ## Leerdoelen
@@ -27,10 +28,10 @@ Een branch mergen in de Gitgraph interface doe je door met je rechtmuisknop op d
 
 ## Opdracht
 
-1.  Merge de branch **Taak06-merge-branch** met de master branch.
+1.  Merge de branch **Taak06-merge-branch** met de master branch. Zorg ervoor dat je op de master branch zit voor je dit doet.
 
 ## Eindresultaat
 
-
+Het is gelukt!
 
 ## Bronnen
