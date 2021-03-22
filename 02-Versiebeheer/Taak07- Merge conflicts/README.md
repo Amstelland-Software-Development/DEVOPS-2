@@ -4,21 +4,26 @@
 
 ## Uitleg
 
-Meestal kan Git het samenvoegen van twee branches of commits automatisch voor je doen maar soms is er een conflict tussen twee versies van een bestand. Dit noem je een merge conflict en dit betekent dat jij moet kiezen welke versie van het bestand de juiste is.  
+Meestal kan Git het samenvoegen van twee branches of commits automatisch voor je doen zoals dat gebeurde bij de vorige taak.
+
+Maar soms is er een conflict tussen twee versies van een bestand. Dit noem je een merge conflict en dit betekent dat jij moet kiezen welke versie van het bestand de juiste is.  
 
 :rocket: def. **merge conflict**: dit gebeurt als er twee versies zijn van een bestand en git niet automatisch kan bepalen welke versie klopt.
 
-Gelukkig geeft VS Code je een gemakkelijke interface om merge conflicts op te lossen. 
+Gelukkig geeft VS Code je een gemakkelijke interface om merge conflicts op te lossen.
+
+![](img/git-gitgraph-merge-conflict.gif)
 ## Leerdoelen
 
 1. Ik kan een branch mergen 
 
 ## Opdracht
 
-1.  
+1.  Merge de branch **Taak07-merge-conflict** met de master branch en los het merge conflict op.
+> Zoals bij voorgaande taken staat er bij de **Taak07-merge-conflict** branch meer informatie in de README.md. In tegenstelling tot de vorige taken is er echter nu een verandering te vinden op een bepaalde regel en weet git niet hoe dit op te lossen zonder jouw hulp! 
 
 ## Eindresultaat
 
-
+Het is gelukt! Als het goed is heb je alleen deze regel in de README.md staan nu.
 
 ## Bronnen
