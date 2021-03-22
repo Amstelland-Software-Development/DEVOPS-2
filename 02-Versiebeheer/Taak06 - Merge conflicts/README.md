@@ -4,17 +4,4 @@
 
 ## Uitleg
 
-
-## Leerdoelen
-
-1. Ik kan
-
-## Opdracht
-
-1.  
-
-## Eindresultaat
-
-
-
-## Bronnen
+:zap: Je zit nog op de **Taak05-feature-branch**! Switch naar de master branch om de uitleg  en opdrachten van deze taak te zien.
