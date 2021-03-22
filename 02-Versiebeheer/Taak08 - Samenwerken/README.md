@@ -4,39 +4,22 @@
 
 ## Uitleg
 
-Zo, we hebben veel concepten aangestipt in de vorige taken:
-* Git log (mbv Gitgrap of de terminal)
-* Stagen van bestanden voor een commit
-* Een commit uitchecken
-* Branches en branches uitchecken
-* Mergen van branches
-* Merge conflicten oplossen
-
-Als dit je allemaal nog niet helder is dan geeft dat niks. Git staat erom bekend dat het een tijdje duurt voor je begrijpt wat er op de achtergrond ongeveer gebeurt. De enige manier om over die hobbel heen te komen is het te gebruiken en veel fouten te maken. En als je er echt niet uitkomt dan kun je altijd een nieuwe clone maken van het lesmateriaal en het opnieuw proberen.
-
-![Git is moeilijk!](img/xkcd-git.png)
-
 ### Samenwerken
 
-Uiteindelijk is straks de bedoeling dat je gaat samenwerken aan een challenge in een gedeelde repository. Dit kun je doen door een student waarmee je samenwerkt rechten te geven in de repository op Github. Dit doe je dus op https://www.github.com bij de settings van de repository en te kiezen voor `invite a collaborator`. Dit zal in de challenge nogeens worden uitgelegd.
-
-Maar hoe werk je dan echt samen?
+### Maar hoe werk je dan echt samen?
 
 Tot nu toe hebben we aan het lesmateriaal van een module gewerkt door deze eerst te clonen en daarna veranderingen te comitten en pushen naar github. Misschien heb je hier en daar eerst bestanden gestaged voor je een commit deed maar de basic workflow zag er uit als onderstaand plaatje.
 
-![](img/git-overview-single-developer.jpg)
-
-Toelichting:
-* Working directory: dit zijn de bestanden die je ziet in VS code en kunt aanpassen. 
-* Staging Area: dit zijn bestanden die veranderd zijn en je in je volgende commit wilt toevoegen
-* Local Repository: Dit is de repository die op jouw computer lokaal staat. Hierin staan alle commits die je hebt gedaan.
-* Remote Repository: Dit is de repository zoals die op github staat.
 
 Wanneer je samenwerkt in een repository op github dan heb je allebei een eigen local repository gecloned naar je laptop of computer. Je volgt dan de stappen die je al kent: stage, commit & push om gemaakte code te kopieren naar de gedeelde repository op github. Maar wat als de developer waarmee je samenwerkt al code heeft gepushed? 
 
 Jouw lokale versie loopt dan achter op de remote versie.
 
 Als je dan probeert jouw laatste commit(s) te pushen naar Github krijg je een melding dat dit niet kan en je eerst een **Pull** moet doen. Zo'n **Pull** uitvoeren betekent dat je de laatste wijzigingen in de remote repository ophaalt en deze samenvoegt met jou lokale repository. 
+
+Zie onderstaand plaatje waarin Student 1 een commit heeft gemaakt (Commit 4) en deze naar Github heeft gepushed waardoor student 2 eerst een pull (en merge) moet doen om zijn werkt te kunnen committen en pushen.
+
+![](img/git-samenwerken-op-een-branch.jpg)
 
 Het zal vaak voorkomen dat Git de veranderingen automatisch merged voor je.
 
