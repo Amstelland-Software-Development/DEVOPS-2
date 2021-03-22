@@ -62,7 +62,11 @@ Maar het kan ook zijn dat je eerst merge conflicts moet oplossen en committen vo
    
     :two: Student naam: ************
 
-3. Probeer de wijzigingen die je lokaal gecommit hebt te pushen naar Github. Als het goed is krijg je een foutmelding dat je eerst een pull moet doen. Kies de optie Pull uit het extra opties menu (···) in je Source Control paneel. 
+3. Probeer de wijzigingen die je lokaal gecommit hebt te pushen naar Github. Als het goed is krijg je een foutmelding dat je eerst een pull moet doen. 
+   
+   ![](img/git-push-error.png)
+   
+   Kies de optie Pull uit het extra opties menu (···) in je Source Control paneel. 
    > :zap: **LETOP**: je krijgt nu een merge conflict waarbij je gegevens van beiden commits wilt behouden. Kies de juiste optie bij het mergen zodat bij :one: en bij :two: je eigen naam nog staat ingevuld. VS Code vult zelf een duidelijke commit message voor je in.
 
 4. Probeer weer te pushen en check online op Github bij deze module repository of de commits goed zijn gepushed.
