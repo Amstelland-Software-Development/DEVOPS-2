@@ -15,7 +15,7 @@ Gelukkig geeft VS Code je een gemakkelijke interface om merge conflicts op te lo
 ![](img/git-gitgraph-merge-conflict.gif)
 ## Leerdoelen
 
-1. Ik kan een branch mergen 
+1. Ik kan een branch mergen en merge conflicts oplossen
 
 ## Opdracht
 

@@ -17,6 +17,7 @@ De repository ziet er ongeveer zo uit in Git Graph:
 Verschillende personen hebben werk uitgevoerd in de verschillende branches en dit gecommit. Uiteindelijk willen we alle branches gemerged hebben gemerged hebben in de master branch. Dit gaan we stap voor stap doen terwijl het resultaat in de gaten houden in een browser (via Live Server), in de Working Directory (de bestanden die je ziet in VS Code) en Git Graph.
 
 Het eindresultaat ziet er zo uit in Git Graph:
+
 ![](img/eindres-merged-branches.png)
 
 

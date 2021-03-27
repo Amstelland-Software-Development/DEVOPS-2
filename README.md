@@ -2,24 +2,21 @@
 
 ## Uitleg
 
-In deze module 
+In deze module gaan we verder in op wat we met Git en Github moeten doen om samen te kunnen werken zoals dat ook op stage of later in het bedrijfsleven gebeurt.
 
-//TODO: @lastcheck fix inhoudsopgave
-
-- 00 - Voorbereiding
-  - Taak01 > Installatie Visual Studio Code
-  - Taak02 > Git & Github
-- 01 - Eagle
-  - Taak01 > Een nieuwe module starten in Eagle
-  - Taak02 > Het lesmateriaal downloaden
-- 02 - VS Code
-  - Taak01 > Introductie Visual Studio Code
-  - Taak02 > Handige instellingen VS Code
-  - Taak03 > Extensies
-- 03 - Versiebeheer
-  - Taak01 > Wat is versiebeheer?
-  - Taak02 > Git en Repositories
-  - Taak03 > Git Commit
-  - Taak04 > Git Push
-  - Taak05 > Git Overview
-
+* 01-VS-Code
+  * Taak01 - Handige keyboard shortcuts
+  * Taak02 - Extensies
+  * Taak03 - Git extensies
+* 02-Versiebeheer
+  * Taak00 - Git tot nu toe
+  * Taak01 - Git log
+  * Taak02 - Stage & Commit
+  * Taak03 - Git Checkout
+  * Taak04 - Samenvatting
+  * Taak05 - Branches
+  * Taak06 - Mergen
+  * Taak07- Merge conflicts
+  * Taak08 - Samenwerken
+  * Taak09 - Samenvatting
+* opdracht

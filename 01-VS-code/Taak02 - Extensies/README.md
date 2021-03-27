@@ -17,20 +17,17 @@ Als je een van de onderstaande extensies installeert kijk dan bij de **Overview*
 * [**Code Spell Checker** _by Street Side Software_](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     > Spelfoutje in de naam van een variabele of functie? Deze extensie zorgt ervoor dat net als in Microsoft Word de spelfouten worden onderstreept zodat je nooit meer hoeft te zoeken naar code die niet werkt vanwege spelfouten. 
 
-//TODO: dyslexie font?  
-//TODO: Sync settings VS Code?
-
 ## Leerdoelen
 
 1. Ik kan mijn ontwikkelingsomgeving zo instellen dat ik zo efficient mogelijk werk. 
 
 ## Opdracht
 
-1. Lees de uitleg die bij deze taak hoort en installeer probeer de extensies uit in VS code. Als je een extensie toch niet handig vindt dan kun je deze altijd weer deinstalleren natuurlijk.
+1. Lees de uitleg die bij deze taak hoort, installeer en probeer de extensies uit in VS code. (Als je een extensie toch niet handig vindt dan kun je deze altijd weer deinstalleren natuurlijk.)
+2. Zorg ervoor dat je de Live Server extensie hebt geinstalleerd (deze wordt later gebruikt in de eindopdracht)
 
 ## Eindresultaat
 
+Je hebt de Live Server extensie geinstalleerd en uitgeprobeerd hoe deze werkt.
 
-
-## :link: Bronnen
-* 
+## Bronnen
