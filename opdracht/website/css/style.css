@@ -1,0 +1,37 @@
+/* All pages CSS */
+body{
+    background-color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding: 0;
+    margin: 0;
+}
+
+header ul li a{
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+header ul li{
+    display: inline-block;
+}
+
+header ul li a:hover{
+    background-color:darkcyan;
+    color: white;
+}
+
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+    padding: 20px 0 20px 0;
+}
+
+ul{
+    list-style-type: none;
+}
