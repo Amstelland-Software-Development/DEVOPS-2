@@ -16,7 +16,7 @@ git checkout <commit hash>
 
 ## Leerdoelen
 
-1. Ik kan een commit uitchecken via de terminal of met de Gitgraph extensie.
+1. Ik kan een commit uitchecken via de terminal.
 
 ## Opdracht
 
