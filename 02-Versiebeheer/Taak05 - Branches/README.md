@@ -44,4 +44,6 @@ Zie onderstaande output van Gitgraph waar een nieuwe branch te zien is genaamd `
 
 Links onder staat in de VS Code interface de naam van de uitgecheckte branch, in dit geval moet het **Taak05-feature-branch** zijn. Er is een nieuwe commit met als commit message "Taak05 voldaan" toegevoegd aan de **Taak05-feature-branch**.
 
+![](img/eindres-taak05-voldaan.jpg)
+
 ## Bronnen
