@@ -27,3 +27,8 @@ Het eindresultaat ziet er zo uit in Git Graph:
 2. Klik op de ![](img/btn-go-live.png) rechts onder in het VS Code venster om een live versie van de website te openen in je standaard browser.
 3. Zorg ervoor dat je je scherm inricht zoals aangegeven in onderstaande screenshot. 
 
+## Eindresultaat
+
+![Setup](img/eindopdr-setup.gif)
+
+## Bronnen
