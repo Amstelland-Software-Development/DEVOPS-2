@@ -46,13 +46,13 @@ Maar het kan ook zijn dat je eerst merge conflicts moet oplossen en committen vo
 
     ![](img/github-editfile-icons.jpg)
 
-    Kies dan voor de potlood icon om in de webinterface dit bestand te bewerken. Vervang je ********** hieronder bij :one: met je eigen naam en scroll naar beneden om een nieuwe commit te maken in de remote repository op Github. Vul uiteraard een goed beschrijven commit message in.
+    Kies dan voor de potlood icon om in de webinterface dit bestand te bewerken. Vervang je ********** hieronder bij :one: met je eigen naam en scroll naar beneden om een nieuwe commit te maken in de remote repository op **Github**. Vul uiteraard een goed beschrijven commit message in.
 
     ![](img/github-commit.jpg)
 
     :one: Student naam: ************
 
-2. De remote repository op Github loopt nu één commit voor op de local repository die je open hebt in VS Code. Vul nu in VS Code de regel hieronder (alleen onderstaande regel bij :two:, bovenstaande laten staan zoals die is) in met je eigen naam, stage dit bestand en commit dit bestand in VS Code.
+2. De remote repository op Github loopt nu één commit voor op de local repository die je open hebt in VS Code. Vul nu in VS Code de regel hieronder (alleen onderstaande regel bij :two:, bovenstaande laten staan zoals die is) in met je eigen naam, stage dit bestand en commit dit bestand in **VS Code**.
    
     :two: Student naam: ************
 
@@ -61,7 +61,7 @@ Maar het kan ook zijn dat je eerst merge conflicts moet oplossen en committen vo
    ![](img/git-push-error.png)
    
    Kies de optie Pull uit het extra opties menu (···) in je Source Control paneel. 
-   > :zap: **LETOP**: je krijgt nu een merge conflict waarbij je gegevens van beiden commits wilt behouden. Kies de juiste optie bij het mergen zodat bij :one: en bij :two: je eigen naam nog staat ingevuld. VS Code vult zelf een duidelijke commit message voor je in.
+   > :zap: **LETOP**: je kan nu een merge conflict krijgen waarbij je gegevens van beiden commits wilt behouden. Kies de juiste optie bij het mergen zodat bij :one: en bij :two: je eigen naam nog staat ingevuld. VS Code vult zelf een duidelijke commit message voor je in als dit gebeurt.
 
 4. Probeer weer te pushen en check online op Github bij deze module repository of de commits goed zijn gepushed.
 
