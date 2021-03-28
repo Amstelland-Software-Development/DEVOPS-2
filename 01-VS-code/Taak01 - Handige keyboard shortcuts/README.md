@@ -1,8 +1,23 @@
 # DEVOPS-2 -TAAK-01
 
+- [DEVOPS-2 -TAAK-01](#devops-2--taak-01)
+  - [Sneller werken in VS Code](#sneller-werken-in-vs-code)
+  - [Uitleg](#uitleg)
+  - [Keyboard shortcuts](#keyboard-shortcuts)
+    - [Formating](#formating)
+    - [Multicursor](#multicursor)
+    - [Editing](#editing)
+    - [Misc](#misc)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Sneller werken in VS Code
 
 ## Uitleg
+
+## Keyboard shortcuts
 
 VS code heeft een aantal handig keyboard shortcuts om snel code te manipuleren, zie [Bronnen](##Bronnen). Een aantal daarvan worden hier behandeld.
 
@@ -40,7 +55,7 @@ VS code heeft een aantal handig keyboard shortcuts om snel code te manipuleren, 
 
 ## Opdracht
 
-1. Bekijk de bovenstaande lijst met keyboard shortcuts. Format `index.html` door gebruik te maken van bovenstaande shortcuts.
+1. Bekijk de bovenstaande lijst met keyboard shortcuts. Kijk of het lukt om `index.html` alleen met keyboard shortcuts te veranderen. Zorg er ook voor dat de code in VS code netjes is uitgelijnd en goed leesbaar is natuurlijk.
 
 ## Eindresultaat
 

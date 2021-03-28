@@ -47,3 +47,4 @@ Links onder staat in de VS Code interface de naam van de uitgecheckte branch, in
 ![](img/eindres-taak05-voldaan.jpg)
 
 ## Bronnen
+* [Branchen in Git - Branches in vogelvlucht](https://git-scm.com/book/nl/v2/Branchen-in-Git-Branches-in-vogelvlucht)

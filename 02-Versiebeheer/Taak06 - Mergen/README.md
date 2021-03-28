@@ -28,10 +28,13 @@ Een branch mergen in de Gitgraph interface doe je door met je rechtmuisknop op d
 
 ## Opdracht
 
-1.  Merge de branch **Taak06-merge-branch** met de master branch. Zorg ervoor dat je op de master branch zit voor je dit doet.
+1.  Merge de branch **Taak06-merge-branch** met de **master** branch. 
+   
+    > :zap: Zorg ervoor dat je op de **master** branch zit voor je dit doet!
 
 ## Eindresultaat
 
-
+Je moet de **Taak06-merge-branch** nog samenvoegen met de **master** branch...
 
 ## Bronnen
+* [Branchen in Git - Eenvoudig branchen en mergen](https://git-scm.com/book/nl/v2/Branchen-in-Git-Eenvoudig-branchen-en-mergen)

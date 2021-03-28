@@ -26,7 +26,7 @@ Bovenstaande screenshot laat 4 commits zien, een op elke regel.
 
 ### Gitgraph
 
-Door gebruik te maken van de **Gitgraph** extensie kunnen we ook een overzicht maken van de commits van een repository. Open hiervoor het command-palette (<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>) en begin te typen: `gitgr`.. tot de optie **Gitgraph: View Git Graph (Git log)** bovenaan staat en selecteer deze optie.
+Door gebruik te maken van de **Gitgraph** extensie kunnen we ook een overzicht maken van de commits van een repository. Open hiervoor het command-palette (<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>) en begin te typen: `gitgr`.. tot de optie **Gitgraph: View Git Graph (Git log)** bovenaan staat en selecteer deze optie. Of gebruik de ![](img/gitgraph-btn.jpg) knop links onder in het VS Code venster.
 
 Er opent zich een nieuwe tab in je editor genaamt `Gitgraph`, zie onderstaande screenshot voor een voorbeeld.
 
@@ -48,6 +48,11 @@ Later gaan we de **Gitgraph** interface gebruiken om gemaakte commits _uit te ch
 
 ## Eindresultaat
 
+#### Voorbeeld output in de console 
+![](img/git-log-terminal.png)
 
+#### Voorbeeld output van Git Graph
+![](img/git-gitgraph.png)
 
 ## Bronnen
+* [Git Basics - De commit geschiedenis bekijken](https://git-scm.com/book/nl/v2/Git-Basics-De-commit-geschiedenis-bekijken)

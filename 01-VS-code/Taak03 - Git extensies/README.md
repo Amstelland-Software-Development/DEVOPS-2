@@ -4,7 +4,9 @@
 
 ## Uitleg
 
-VS code 
+VS Code geeft al standaard heel veel mogelijkheden om om te gaan met versiebeheer en je hoeft bijna niks meer te doen in de terminal. De onderstaande extensie voegt daar nog wat aan toe.
+
+We gaan deze extensie volop gebruiken in het tweede deel van deze module.
 
 * [ Gitgraph by mhutchie](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)  
     > Voegt een visuele interface toe aan VS Code waarin je de meeste acties die je doet in een repository kunt uitvoeren.
@@ -18,11 +20,18 @@ VS code
 ## Opdracht
 
 1.  Installeer de Gitgraph extensie in VS Code
-2.  Open de Git Graph extensie in VS code en bekijk de interface
-    1.  Gebruik het Command Palette
+2.  Open de Git Graph extensie in VS code en bekijk de interface alvast. Er zijn meerdere manieren om de Git Graph extensie te openen:
+    1. Gebruik de ![](img/gitgraph-btn.jpg) knop links onder in het VS Code venster.
+    2. Gebruik de ![](img/gitgraph-vcs-btn.jpg) knop in het Source Control paneel.
+    3. Of open het command-palette (<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>) en begin te typen: `gitgr`.. tot de optie **Gitgraph: View Git Graph (Git log)** bovenaan staat en selecteer deze optie. 
 
 ## Eindresultaat
 
+Bij Extensions > Installed staat Git Graph geinstalleerd.
 
+![](img/gitgraph-ext-installed.png)
 
 ## Bronnen
+
+* [ Gitgraph VS Code extension by mhutchie](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+

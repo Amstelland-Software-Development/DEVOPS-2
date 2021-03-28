@@ -26,7 +26,7 @@ In onderstaande gif zie je de handelingen om de checkout van een commit te doen 
 
 1. Ik weet wat een Commit Hash en dat deze uniek is
 2. Ik weet wat de HEAD is wat deze aangeeft in `git log`
-3. Ik kan via de interface van Gitgraph een commit uitchecken
+3. Ik kan via de interface van Git Graph een commit uitchecken
 ## Opdracht
 
 1. Zorg ervoor dat je een idee hebt bij de verschillende termen zoals die in deze samenvatting genoemd zijn.

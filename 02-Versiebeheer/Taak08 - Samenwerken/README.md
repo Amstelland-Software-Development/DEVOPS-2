@@ -27,7 +27,8 @@ Maar het kan ook zijn dat je eerst merge conflicts moet oplossen en committen vo
 
 ## Leerdoelen
 
-1. Ik kan samenwerken in een gedeelde repository.
+1. Ik weet dat ik soms eerst een pull moet doen om de veranderingen op de remote repository samen te voegen met mijn lokale repository.
+2. Ik kan een merge conflict oplossen 
 
 ## Opdracht
 

@@ -6,13 +6,13 @@
 
 Zo, we hebben veel concepten aangestipt in de vorige taken:
 * **Git log (mbv Gitgrap of de terminal)**
-  > Zodat je kan zien hoe je project is opgebouwd uit commits.
+  > Zodat je de geschiedenis kan inzien van een project
 
 * **Stagen van bestanden voor een commit**
   > Zodat je bestanden die bij elkaar horen samen in een commit kan plaatsen (zodat je deze later weer kunt terughalen als je dat wilt)
 
 * **Een commit uitchecken**
-  > Zodat je dus een stapje terug kunt los van de undo in VS Code. In de praktijk zal je dit niet vaak gebruiken maar het kan soms handig zijn om te zien hoe je code er eerder uitzag voor je een x aantal commits later alles hebt aangepast.
+  > Zodat je een stapje terug kunt los van de undo in VS Code. In de praktijk zal je dit niet vaak gebruiken maar het kan soms handig zijn om te zien hoe je code er eerder uitzag voor je een x aantal commits later alles hebt veranderd.
 
 * **Branches en branches uitchecken**
   > Zodat je zelfstandig aan een onderdeel van je project kunt werken zonder elkaar in de weg te zitten. 
@@ -23,7 +23,7 @@ Zo, we hebben veel concepten aangestipt in de vorige taken:
 * **Merge conflicten oplossen**
   > Zodat je code die conflicteerd met elkaar kunt samenvoegen en committen.
 
-Als dit je allemaal nog niet helder is dan geeft dat niks. Git staat erom bekend dat het een tijdje duurt voor je begrijpt wat er op de achtergrond ongeveer gebeurt. De enige manier om over die hobbel heen te komen is het te gebruiken en veel fouten te maken. En als je er echt niet uitkomt dan kun je altijd een nieuwe clone maken van het lesmateriaal en het opnieuw proberen.
+Als dit je allemaal nog niet helder is dan geeft dat niks. Git staat erom bekend dat het een tijdje duurt voor je begrijpt wat er op de achtergrond gebeurt. De enige manier om over die hobbel heen te komen is het te gebruiken en veel fouten te maken. En als je er echt niet uitkomt dan kun je altijd een nieuwe clone maken van het lesmateriaal en het opnieuw proberen.
 
 ![Git is moeilijk!](img/xkcd-git.png)
 
@@ -39,12 +39,15 @@ Inmiddels heb je geleerd hoe je commits of branches kan uitchecken (vanuit de lo
 
 ## Leerdoelen
 
-1. Ik weet van 
+1. Ik weet kan het verschil uitleggen tussen de working directory, de staging area en de local en remote repository.
+2. Ik weet wat er gebeurt als je de volgende git acties uitvoert: clone, stage, commit, push, checkout en pull.
 
 ## Opdracht
 
 1. Lees bovenstaande samenvatting door en zorg dat je een beeld hebt bij de verschillende concepten die herhaald worden.
 
 ## Eindresultaat
+
+
 
 ## Bronnen

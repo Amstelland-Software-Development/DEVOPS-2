@@ -36,6 +36,7 @@ De overige taken in dit onderdeel zullen veel van je vragen. Je zal hier en daar
 1. Ik kan in één zin uitleggen wat er bedoeld wordt met de Working Directory
 2. Ik kan in één zin uitleggen wat er bedoeld wordt met een Local Repository
 3. Ik kan in één zin uitleggen wat er bedoeld wordt met een Remote Repository
+4. Ik kan in één zin uitleggen wat er bedoeld wordt met clonen, committen en pushen.
 
 ## Opdracht
 
@@ -43,4 +44,9 @@ De overige taken in dit onderdeel zullen veel van je vragen. Je zal hier en daar
 
 ## Eindresultaat
 
+Je kunt uitleggen wat er bedoeld wordt met de clonen, committen en pushen en gebruikt daarbij de termen working directory, local repository en remote repository. 
+
 ## Bronnen
+
+* [Aan de slag - Over versiebeheer](https://git-scm.com/book/nl/v2/Aan-de-slag-Over-versiebeheer)
+* [Aan de slag - Wat is Git?](https://git-scm.com/book/nl/v2/Aan-de-slag-Wat-is-Git%3F)

@@ -20,14 +20,14 @@ git checkout <commit hash>
 
 ## Opdracht
 
-1.  Zorg ervoor dat je dit README.md bestand geopend hebt in VS Code (met eventueel de leesbare preview ernaast) en voer onderstaande git commando uit in de terminal:
+1.  Zorg ervoor dat je dit README.md bestand geopend hebt in VS Code (met eventueel de leesbare preview ernaast) en voer onderstaande git commando uit in de terminal:  
     ```cmd
         git checkout 52bd7c0a
     ```
 
-
 ## Eindresultaat
 
+:rocket: **LETOP**: Je moet nog opdracht 1 uitvoeren. Als je dit doet veranderd deze tekst.
 
 
 ## Bronnen

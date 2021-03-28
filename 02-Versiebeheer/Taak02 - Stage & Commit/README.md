@@ -48,6 +48,8 @@ In bovenstaande gif zie je een voorbeeld van het toevoegen van twee bestanden di
 
 ## Eindresultaat
 
-
+Bij volgende commits die je in de verschillende modules doet voeg je alleen de bestanden toe die bij een bepaalde taak horen.
 
 ## Bronnen
+
+* [Git Tools - Interactief stagen](https://git-scm.com/book/nl/v2/Git-Tools-Interactief-stagen)
