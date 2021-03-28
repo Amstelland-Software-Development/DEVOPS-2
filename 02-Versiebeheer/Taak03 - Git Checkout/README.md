@@ -2,6 +2,14 @@
 
 ## Git Checkout
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 03](#devops-2---02---versiebeheer---taak-03)
+  - [Git Checkout](#git-checkout)
+  - [Uitleg](#uitleg)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 Tot nu toe heb je veel gecommit, je code gepushed naar de repository op github maar nog weinig gebruik gemaakt van de vele mogelijkheden die Git je nog meer biedt.

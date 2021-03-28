@@ -1,5 +1,7 @@
 # DEVOPS-2 -TAAK-01
 
+## Sneller werken in VS Code
+
 - [DEVOPS-2 -TAAK-01](#devops-2--taak-01)
   - [Sneller werken in VS Code](#sneller-werken-in-vs-code)
   - [Uitleg](#uitleg)
@@ -12,8 +14,6 @@
   - [Opdracht](#opdracht)
   - [Eindresultaat](#eindresultaat)
   - [Bronnen](#bronnen)
-
-## Sneller werken in VS Code
 
 ## Uitleg
 

@@ -2,6 +2,14 @@
 
 ## Samenvatting
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 09](#devops-2---02---versiebeheer---taak-09)
+  - [Samenvatting](#samenvatting)
+  - [Uitleg](#uitleg)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 Zo, we hebben veel concepten aangestipt in de vorige taken:

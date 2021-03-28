@@ -2,9 +2,21 @@
 
 ## Samenvatting
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 04](#devops-2---02---versiebeheer---taak-04)
+  - [Samenvatting](#samenvatting)
+  - [Uitleg](#uitleg)
+    - [Terminal checkout](#terminal-checkout)
+    - [Git Graph checkout](#git-graph-checkout)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 Ok, dus we hebben nu gezien dat je in de tijdlijn van commits elke commit terug kan halen via `git checkout`. 
+
+### Terminal checkout
 
 Even een korte samenvatting van de nieuwe termen die we in voorgaande taken zijn tegengekomen, zie onderstaande output van `git log --pretty=oneline` in de terminal:
 
@@ -14,11 +26,11 @@ Even een korte samenvatting van de nieuwe termen die we in voorgaande taken zijn
 * **Commit Message**: In het grijs. Geeft kort en bondig weer wat er in code die bij die commit hoort is veranderd.
 * **HEAD**: In het blauw. De **HEAD** geeft aan welke commit op dit moment is uitgecheckt.
 
-> :zap: Zo'n lijst van commits wordt ook wel een _boom_ (tree) genoemd. De HEAD wijst standaard naar de laatste commit, oftewel de top van de boom. Als je een eerder gemaakte commit uitcheckt dan verplaatst de HEAD zich naar die commit en bevindt Git zich in een _DETACHED HEAD state_. In de terminal krijg je een waarschuwing en bij Gitgraph moet je expliciet toestemming geven daarvoor. 
+> :zap: Zo'n lijst van commits wordt ook wel een _boom_ (tree) genoemd. De HEAD wijst standaard naar de laatste commit, oftewel de top van de boom. Als je een eerder gemaakte commit uitcheckt dan verplaatst de HEAD zich naar die commit en bevindt Git zich in een _DETACHED HEAD state_. In de terminal krijg je een waarschuwing en bij Git Graph moet je expliciet toestemming geven daarvoor. 
 
-### Gitgraph checkout
+### Git Graph checkout
 
-In onderstaande gif zie je de handelingen om de checkout van een commit te doen in Gitgraph. De plaats van de HEAD wordt getoond als een leeg blauw bolletje in de interface. In de praktijk zal je meer bezig zijn binnen de interface die VS code aanbiedt om om te gaan met Git dan dat je via de terminal werkt maar het is natuurlijk aan jou om te kiezen hoe je het liefst werkt.
+In onderstaande gif zie je de handelingen om de checkout van een commit te doen in Git Graph. De plaats van de HEAD wordt getoond als een leeg blauw bolletje in de interface. In de praktijk zal je meer bezig zijn binnen de interface die VS code aanbiedt om om te gaan met Git dan dat je via de terminal werkt maar het is natuurlijk aan jou om te kiezen hoe je het liefst werkt.
 
 ![](img/git-gitgraph-checkout.gif)
 

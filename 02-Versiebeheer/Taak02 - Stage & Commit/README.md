@@ -2,6 +2,16 @@
 
 ## Stage & Commit
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 02](#devops-2---02---versiebeheer---taak-02)
+  - [Stage & Commit](#stage--commit)
+  - [Uitleg](#uitleg)
+    - [Goede commit messages](#goede-commit-messages)
+    - [Stagen van bestanden](#stagen-van-bestanden)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 ### Goede commit messages 
@@ -18,10 +28,11 @@ Een goed beschrijvende commit message is daarvoor essentieel.
 
 ![Git voorbeeld](img/git-voorbeeld.png)
 
-#### Een goede commit message:
-1. is kort & bondig
-2. is informatief
-3. Maakt duidelijk wat een commit doet als een teamgenoot deze uitcheckt. (zie taak03)
+
+**Een goede commit message:**
+  >1. is kort & bondig
+  >2. is informatief
+  >3. Maakt duidelijk wat een commit doet als een teamgenoot deze _uitcheckt_. (zie taak03)
 
 ### Stagen van bestanden
 

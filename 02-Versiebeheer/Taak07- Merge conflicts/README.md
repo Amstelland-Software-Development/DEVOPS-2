@@ -1,6 +1,14 @@
 # DEVOPS-2 - 02 - Versiebeheer - Taak 06
 
-## Mergen
+## Mergen Conflicts
+
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 06](#devops-2---02---versiebeheer---taak-06)
+  - [Mergen Conflicts](#mergen-conflicts)
+  - [Uitleg](#uitleg)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
 
 ## Uitleg
 
@@ -8,7 +16,7 @@ Meestal kan Git het samenvoegen van twee branches of commits automatisch voor je
 
 Maar soms is er een conflict tussen twee versies van een bestand. Dit noem je een merge conflict en dit betekent dat jij moet kiezen welke versie van het bestand de juiste is.  
 
-:rocket: def. **merge conflict**: dit gebeurt als er twee versies zijn van een bestand en git niet automatisch kan bepalen welke versie klopt.
+:zap: **merge conflict**: dit gebeurt als er twee versies zijn van een bestand en git niet automatisch kan bepalen welke versie klopt.
 
 Gelukkig geeft VS Code je een gemakkelijke interface om merge conflicts op te lossen.
 

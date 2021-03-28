@@ -2,6 +2,14 @@
 
 ## Extensies
 
+- [DEVOPS-2 - 01 - VS Code - Taak 02](#devops-2---01---vs-code---taak-02)
+  - [Extensies](#extensies)
+  - [Uitleg](#uitleg)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 Mischien heb je na de laatste devops module al zelf gekeken bij de extenties die je kunt installeren om het werken in VS Code nog gemakkelijker te maken. In deze taak worden een aantal handig extensies genoemd die je kunt installeren als je denkt dat deze jou kunnen helpen. 

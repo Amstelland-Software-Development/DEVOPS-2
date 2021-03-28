@@ -2,11 +2,26 @@
 
 ## Git tot nu toe
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 00](#devops-2---02---versiebeheer---taak-00)
+  - [Git tot nu toe](#git-tot-nu-toe)
+  - [Uitleg](#uitleg)
+    - [Hoe we tot nu werkten](#hoe-we-tot-nu-werkten)
+    - [De al bekende termen](#de-al-bekende-termen)
+    - [Verder met versiebeheer](#verder-met-versiebeheer)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
+
+### Hoe we tot nu werkten
 
 Tot nu toe heb je bij het maken van de modules in Eagle de onderstaande workflow tussen Git en Github gebruikt:
 
 ![](img/git-overview-simple.jpg)
+
+### De al bekende termen
 
 Je bent inmiddels bekende geraakt met de onderstaande dingen die je met Git en Github doet:
 * **Clonen**: Het kopieren van een een _remote repository_ naar je laptop (lokaal)

@@ -1,5 +1,11 @@
 # DEVOPS - 2 - Eindopdracht
 
+- [DEVOPS - 2 - Eindopdracht](#devops---2---eindopdracht)
+  - [Uitleg](#uitleg)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 In deze eindopdracht gaan we een aantal handelingen doen met Git en Github.
@@ -51,6 +57,8 @@ Het eindresultaat ziet er zo uit in Git Graph:
    ![Merge eindopdracht branch met de master branch](img/eindopdr-merge-into-master.gif)
 
 ## Eindresultaat
+
+De **git-pagina** en **vscode-pagina** branches zijn samengevoegd met de **eindopdracht** branch. En de **eindopdracht** branch is samengevoegd met de **master** branch. Zie onderstaand plaatje om te zien hoe dit er uit ziet in Git Graph.
 
 ![](img/eindres-merged-branches.png)
 

@@ -2,6 +2,16 @@
 
 ## Samenwerken
 
+- [DEVOPS-2 - 02 - Versiebeheer - Taak 07](#devops-2---02---versiebeheer---taak-07)
+  - [Samenwerken](#samenwerken)
+  - [Uitleg](#uitleg)
+    - [Samenwerken](#samenwerken-1)
+    - [Maar hoe werk je dan echt samen?](#maar-hoe-werk-je-dan-echt-samen)
+  - [Leerdoelen](#leerdoelen)
+  - [Opdracht](#opdracht)
+  - [Eindresultaat](#eindresultaat)
+  - [Bronnen](#bronnen)
+
 ## Uitleg
 
 ### Samenwerken
