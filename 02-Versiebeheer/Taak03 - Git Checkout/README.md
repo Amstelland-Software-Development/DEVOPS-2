@@ -12,7 +12,7 @@
 
 ## Uitleg
 
-Tot nu toe heb je veel gecommit, je code gepushed naar de repository op github maar nog weinig gebruik gemaakt van de vele mogelijkheden die Git je nog meer biedt.
+Tot nu toe heb je veel gecommit, je code gepusht naar de repository op github maar nog weinig gebruik gemaakt van de vele mogelijkheden die Git je nog meer biedt.
 
 In deze taak gaan we een commit _uitchecken_. Hiermee kun je de code zoals die was toen je een bepaalde commit maakte weer terughalen. 
 
@@ -35,7 +35,7 @@ git checkout <commit hash>
 
 ## Eindresultaat
 
-:rocket: **LETOP**: Je moet nog opdracht 1 uitvoeren. Als je dit doet veranderd deze tekst.
+:rocket: **LETOP**: Je moet nog opdracht 1 uitvoeren. Als je dit doet verandert deze tekst.
 
 
 ## Bronnen
