@@ -27,15 +27,15 @@ We gaan deze extensie volop gebruiken in het tweede deel van deze module.
 
 ## Opdracht
 
-1.  Installeer de Git Graph extensie in VS Code
-2.  Open de Git Graph extensie in VS code en bekijk de interface alvast. Er zijn meerdere manieren om de Git Graph extensie te openen:
-    1. Gebruik de ![](img/gitgraph-btn.jpg) knop links onder in het VS Code venster.
-    2. Gebruik de ![](img/gitgraph-vcs-btn.jpg) knop in het Source Control paneel.
+1.  Installeer de Git Graph-extensie in VS Code
+2.  Open de Git Graph-extensie in VS Code en bekijk de interface alvast. Er zijn meerdere manieren om de Git Graph-extensie te openen:
+    1. Gebruik de ![](img/gitgraph-btn.jpg) knop links onder in het VS Code-venster.
+    2. Gebruik de ![](img/gitgraph-vcs-btn.jpg) knop in het Source Control panel.
     3. Of open het command-palette (<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>) en begin te typen: `gitgr`.. tot de optie **Git Graph: View Git Graph (Git log)** bovenaan staat en selecteer deze optie. 
 
 ## Eindresultaat
 
-Bij Extensions > Installed staat Git Graph geinstalleerd.
+Bij Extensions > Installed staat Git Graph geïnstalleerd.
 
 ![](img/gitgraph-ext-installed.png)
 
