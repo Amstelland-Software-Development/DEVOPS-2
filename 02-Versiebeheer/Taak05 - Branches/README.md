@@ -25,7 +25,7 @@ Je kunt zelf branches aanmaken. Dit doe je om bijvoorbeeld aan één specifiek o
 
 Als je dan klaar bent met die feature dan kun je die branch weer samenvoegen met de rest van je code. Dit samenvoegen noem je **mergen**.
 
-Open deze manier kunnen verschillende developers elk in een eigen branch tegelijk werken aan code en deze committen zonder elkaar in de weg te zitten.
+Op deze manier kunnen verschillende developers elk in een eigen branch tegelijk werken aan code en deze committen zonder elkaar in de weg te zitten.
 #### Git Graph
 
 Zie onderstaande output van Git Graph waar een nieuwe branch te zien is genaamd `Taak05-feature-branch`. 
@@ -40,7 +40,7 @@ Zie onderstaande output van Git Graph waar een nieuwe branch te zien is genaamd 
 
 #### Drie manieren om checkout branch te doen in VS Code
 1. Gebruik de VS Code interface:
-   > Links onder in de VS Code interface wordt getoond op welke branch je op dit moment zit. ![Checkout branch Git interface](img/git-vs-code-checkout-branch.png) Klik op die knop en kies een branch in het dropdown menu boven aan en in het midden van de interface om een branch uit te checken.
+   > Links onder in de VS Code interface wordt getoond op welke branch je op dit moment zit. ![Checkout branch Git interface](img/git-vs-code-checkout-branch.png) Klik op die knop en kies een branch in het dropdownmenu boven aan en in het midden van de interface om een branch uit te checken.
 2. Gebruik de Git Graph interface:
     > Rechtermuis knop op een branch toont opties, kies voor `Checkout Branch`.
 3. Gebruik de Terminal:
@@ -48,7 +48,7 @@ Zie onderstaande output van Git Graph waar een nieuwe branch te zien is genaamd 
 
 ## Leerdoelen
 
-1. Ik weet wat een branch is binnen het Git ecosysteem en waarvoor deze worden gebruikt.
+1. Ik weet wat een branch is binnen het Git-ecosysteem en waarvoor deze worden gebruikt.
 2. Ik kan verwisselen van de branch door gebruik te maken van de Terminal / Git Graph of de VS Code interface. 
 
 ## Opdracht
@@ -56,7 +56,7 @@ Zie onderstaande output van Git Graph waar een nieuwe branch te zien is genaamd 
 1. Doe een checkout van de branch **Taak05-feature-branch** en ga naar opdracht 2 van deze taak.
 ## Eindresultaat
 
-Links onder staat in de VS Code interface de naam van de uitgecheckte branch, in dit geval moet het **Taak05-feature-branch** zijn. Er is een nieuwe commit met als commit message "Taak05 voldaan" toegevoegd aan de **Taak05-feature-branch**.
+Links onder staat in de VS Code-interface de naam van de uitgecheckte branch, in dit geval moet het **Taak05-feature-branch** zijn. Er is een nieuwe commit met als commit message "Taak05 voldaan" toegevoegd aan de **Taak05-feature-branch**.
 
 ![](img/eindres-taak05-voldaan.jpg)
 
